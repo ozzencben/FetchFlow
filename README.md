@@ -34,8 +34,8 @@ FetchFlow is a Python-based GUI application that allows users to fetch data from
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/fetchflow.git
-cd fetchflow
+git clone https://github.com/ozzencben/fetchflow.git
+cd fetchflowGUI
 python main.py
 ```
 
@@ -68,4 +68,4 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Created by [Your Name](https://github.com/yourusername)
+Created by [Your Name](https://github.com/ozzencben)
